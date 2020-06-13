@@ -1,0 +1,23 @@
+public class HelloWorld{
+
+     public static void main(String []args){
+    
+        
+        
+        int x = 30 ;
+        int y = 10 ;
+        
+        int a = x + y ;
+        int b = x - y ;
+        int c = x * y ;
+        
+        boolean d = a < b ;
+        
+        
+        System.out.println(x);
+        System.out.println(y);
+        System.out.println(a);
+        System.out.println(b);
+        System.out.println(c);
+     }
+}
